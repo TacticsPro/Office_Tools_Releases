@@ -71,7 +71,13 @@ From GST 2A/2B/8A reconciliation to Tally XML creation, this suite streamlines d
 
 ## 📄 License
 
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more information.
+This is a **commercial licensed application** developed by **TacticsPro**.  
+A valid license is required to use the software.
+
+- 💰 Price: ₹3600/year per PC only!
+- 🖥️ Single license per system (non-transferable)
+
+To purchase a license or for bulk licensing inquiries, contact:
 
 ---
 ## 📧 Contact
