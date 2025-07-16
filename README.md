@@ -85,7 +85,7 @@ To purchase a license or for bulk licensing inquiries, contact:
 For support, feedback, or demo requests, please contact:  
 📩 `gpenmail@gmail.com`  
 🔗 [Visit:](https://github.com/TacticsPro/Office_Tools_Latest_Version/tree/main/Office_Tools_WinUi3/MSIX)
-
+ © TacticsPro. All rights reserved
 ---
 
 > ⚠️ This project is not affiliated with Tally Solutions Pvt. Ltd. Excel and Tally are trademarks of their respective owners.
