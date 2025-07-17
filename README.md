@@ -46,16 +46,18 @@ From GST 2A/2B/8A reconciliation to Tally XML creation, this suite streamlines d
 |----------------------|------------------------------|
 | **Operating System** | Windows 10 or higher         |
 | **Excel Version**    | Excel 2021 or Microsoft 365  |
-| **.NET Runtime**     | .NET 8.0+ or installed via setup |
+| **.NET Runtime**     | .NET 9.0+ or installed via setup |
 
 ---
 
 ## 📦 Installation
 
-1. Download the latest release from the [Releases](https://github.com/TacticsPro/Office_Tools_Latest_Version/tree/main/Office_Tools_WinUi3/MSIX) section.
-2. Run the installer and follow on-screen instructions.
-3. Ensure Excel 2021 or 365 is installed and licensed.
-4. Launch the app via Start Menu or desktop shortcut.
+1. Download the All release from the [Releases](https://github.com/TacticsPro/Office_Tools_Releases/releases) section.
+2. Download msix Office_Tools_7.7.0.0_x64_Debug.cer and install certificate on local->certificate store->Trusted Root Certification Authorities and able to install msix package
+3. or also you can Download the latest release from the [Releases](https://github.com/TacticsPro/Office_Tools_Latest_Version/tree/main/Office_Tools_WinUi3/MSIX) section.
+4. Run the installer and follow on-screen instructions.
+5. Ensure Excel 2021 or 365 is installed and licensed.
+6. Launch the app via Start Menu or desktop shortcut.
 
 ---
 
