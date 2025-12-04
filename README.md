@@ -50,7 +50,7 @@ From GST 2A/2B/8A reconciliation to Tally XML creation, this suite streamlines d
 |----------------------|------------------------------|
 | **Operating System** | Windows 10 or higher         |
 | **Excel Version**    | Excel 2021 or Microsoft 365  |
-| **.NET Runtime**     | .NET 9.0+ or installed via setup |
+| **.NET Runtime**     | .NET 10.0+ or Bundled via app|
 
 ---
 
@@ -94,7 +94,7 @@ To purchase a license or for bulk licensing inquiries, contact:
 
 For support, feedback, or demo requests, please contact:  
 📩 `gpenmail@gmail.com`  
-🔗 [Visit:](https://github.com/TacticsPro/Office_Tools_Latest_Version/tree/main/Office_Tools_WinUi3/MSIX)
+🔗 [Visit:](https://github.com/TacticsPro/Office_Tools_Releases/releases)
  © TacticsPro. All rights reserved
 ---
 
